@@ -1,6 +1,5 @@
 # Mesh Smoothing  
-Implementation of **Uniform, Explicit and Implicit Laplacian** Mesh Smoothing.  
-Method, results and figures can be found in `MeshSmoothing.pdf`  
+Implementation of **Uniform, Explicit and Implicit Laplacian** Mesh Smoothing (_nb: source files only_).  
 
 ## Results:  
 <div align="center">
@@ -10,7 +9,7 @@ Method, results and figures can be found in `MeshSmoothing.pdf`
     </tr>
     <tr>
         <td>
-        <img width="250" src=""></img>
+        <img width="250" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/ImplicitSmoothing.jpg"></img>
         </td>
     </tr>
 </table>
