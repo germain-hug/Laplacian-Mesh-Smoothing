@@ -9,7 +9,7 @@ Implementation of **Uniform, Explicit and Implicit Laplacian** Mesh Smoothing (_
     </tr>
     <tr>
         <td>
-        <img width="250" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/ImplicitSmoothingMesh.jpg"></img>
+        <img width="450" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/ImplicitSmoothingMesh.jpg"></img>
         </td>
     </tr>
 </table>
