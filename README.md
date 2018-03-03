@@ -9,7 +9,7 @@ Implementation of **Uniform, Explicit and Implicit Laplacian** Mesh Smoothing (_
     </tr>
     <tr>
         <td>
-        <img width="450" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/ImplicitSmoothingMesh.jpg"></img>
+        <img width="430" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/ImplicitSmoothingMesh.jpg"></img>
         </td>
         <td>
         <img width="450" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/ImplicitSmoothingCow.jpg"></img>
@@ -31,32 +31,18 @@ Implementation of **Uniform, Explicit and Implicit Laplacian** Mesh Smoothing (_
 <table align="center">
     <tr>
       <th>Mean Curvature</th>
+      <th>Gaussian Curvature</th>
+      <th>Discrete Mean Curvature</th>
     </tr>
     <tr>
         <td>
         <img width="450" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/MeanCurvature.jpg"></img>
         </td>
-    </tr>
-</table>
-
-<table align="center">
-    <tr>
-      <th>Gaussian Curvature</th>
-    </tr>
-    <tr>
         <td>
         <img width="450" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/GaussianCurvature.jpg"></img>
         </td>
-    </tr>
-</table>
-
-<table align="center">
-    <tr>
-      <th>Discrete Mean Curvature</th>
-    </tr>
-    <tr>
         <td>
         <img width="450" src="https://raw.githubusercontent.com/germain-hug/Mesh-Smoothing/master/results/DiscreteMeanCurvature.jpg"></img>
         </td>
-    </tr>
+        </tr>
 </table>
